@@ -1,6 +1,6 @@
 # iHungryAPI
 
-# How to use:
+## How to use:
 You will need Visual Studio 2017 (15.7) and the .NET Core SDK (2.1.2).
 Please check if you have installed the same runtime version (SDK) described in global.json
 The latest SDK and tools can be downloaded from https://dot.net/core.
